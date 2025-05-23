@@ -1,0 +1,6 @@
+mn=Menu()
+# item=FoodItem('Burger',85.5,5)
+# item2=FoodItem('Pizza',800.5,8)
+# mn.add_menu_items(item)
+# mn.add_menu_items(item2)
+# mn.item_show()
